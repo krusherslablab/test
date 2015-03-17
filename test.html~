@@ -3,7 +3,11 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
-	<h1>Hello World!</h1>
+<<<<<<< HEAD
+	<h1>AJA!!!!!!</h1>
+=======
+	<h1>Dlrow Olleh</h1>
+>>>>>>> ab-1l_laylo
 	<img src="image.jpg"/>
 	<p>Julie Rose B. Laylo || 2012-28527 || AB-1L </p>
 </body>
